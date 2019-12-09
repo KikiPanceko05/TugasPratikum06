@@ -13,8 +13,10 @@ while True: print("") c = input("L)ihat, T)ambah, U)bah, H)apus, C)ari, K)eluar:
 -jika kalau sudah memasukan code tersebut di software phycram(phyton) silahkan Di Run silahkan kelik ctrl+shift+F10 atau klik kanan Run Berikut disini adalah gambaran input outputnya.
 
 ## Gambar Input
-
+![input end](https://github.com/KikiPanceko05/TugasPratikum06/blob/master/inpu2.PNG)
+![input end](https://github.com/KikiPanceko05/TugasPratikum06/blob/master/input3.PNG)
 ## Gambar output
-https://github.com/KikiPanceko05/TugasPratikum06/blob/master/screenshot%20input.PNG
-https://github.com/KikiPanceko05/TugasPratikum06/blob/master/input.PNG
+![input end](https://github.com/KikiPanceko05/TugasPratikum06/blob/master/screenshot%20input.PNG)
+![input end](https://github.com/KikiPanceko05/TugasPratikum06/blob/master/input.PNG)
 ## Gambar Flowchart
+![input end](https://github.com/KikiPanceko05/TugasPratikum06/blob/master/tugas6flowchart.png)
